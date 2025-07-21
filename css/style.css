@@ -1,0 +1,28 @@
+body{
+    /* background: #212121; */
+    color: #fff;
+}
+
+.canvas{
+    /* background: rgb(124, 53, 53); */
+    padding: 10px 30px;
+    border-radius: 8px;
+    color: #212121;
+    text-decoration: none;
+}
+
+ #grey{
+    width: 200px;
+    height: 200px;
+    background: grey;
+    display: inline-block; 
+    border: 1px solid black;
+}
+
+ #white{
+    width: 200px;
+    height: 200px;
+    background: white;
+    display: inline-block; 
+    border: 1px solid black;
+}
